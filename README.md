@@ -1,6 +1,6 @@
 # Zshrc and terminal prompt made with p10k.
 
-# Changing your shell.
+# Instruction
 1.Install zsh on OpenSuse by typing:
 
 $ sudo zypper install zsh
@@ -11,5 +11,5 @@ $ chsh -s /bin/zsh
 
 3.And then reboot your system.
 
-# Copy .zshrc file and you are good to go!
+4. Copy .zshrc file and you are good to go!
 
