@@ -11,5 +11,5 @@ $ chsh -s /bin/zsh
 
 3.And then reboot your system.
 
-4. Copy .zshrc file and you are good to go!
+4.Copy .zshrc file and you are good to go!
 
